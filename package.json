@@ -1,0 +1,15 @@
+{  
+  "name": "game-galaxy",  
+  "version": "6.7.2",  
+  "description": "游戏集结包",  
+  "main": "index.js",  
+  "scripts": {  
+    "test": "echo \"Error: no test specified\" && exit 1"  
+  },  
+  "repository": {  
+    "type": "git",  
+    "url": "https://github.com/zerokongz/game-galaxy"  
+  },  
+  "license": "ISC",  
+  "homepage": "https://github.com/zerokongz/game-galaxy"  
+}
